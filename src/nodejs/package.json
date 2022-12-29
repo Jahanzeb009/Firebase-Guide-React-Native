@@ -1,0 +1,28 @@
+{
+  "name": "com.jahanzeb.dev.firebase.guide",
+  "version": "1.0.0",
+  "description": "I'm creating this server for send push notification from device admin panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahanzeb009/Firebase-Guide-React-Native.git"
+  },
+  "keywords": [
+    "firebase",
+    "reactnative"
+  ],
+  "author": "Muhammad Jahanzeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahanzeb009/Firebase-Guide-React-Native/issues"
+  },
+  "homepage": "https://github.com/Jahanzeb009/Firebase-Guide-React-Native#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.3.0",
+    "ngrok": "^4.3.3"
+  }
+}
